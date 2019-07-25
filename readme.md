@@ -402,9 +402,11 @@
 - [Database](https://github.com/numetriclabz/awesome-db#readme)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
-- [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb#readme)
-- [Neo4j](https://github.com/neueda/awesome-neo4j#readme)
+- [Cassandra](https://github.com/apache/cassandra) - NoSQL database.
+- [Elassandra](https://github.com/strapdata/elassandra) - NoSQL database.
 - [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL database.
+- [Neo4j](https://github.com/neueda/awesome-neo4j#readme)
+- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme)
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb#readme)
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme) - Graph computing framework.
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
